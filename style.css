@@ -64,3 +64,6 @@ img {
     width: 90%;
   }
 }
+.for-input-width{
+  width: 550px !important;
+}
